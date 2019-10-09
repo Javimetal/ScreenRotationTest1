@@ -30,3 +30,5 @@ Button 'Set Landscape Mode' will swap the screen orientation to landscape.
 If we want a properly portrait usage, first change mode to 'original', then set to portrait.
 
 Compiled APK is available, just donwload the file: app-debug.apk
+
+Images: https://github.com/Javimetal/ScreenRotationTest1/wiki
