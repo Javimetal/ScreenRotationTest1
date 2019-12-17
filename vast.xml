@@ -1,0 +1,97 @@
+<VAST version="3.0">
+<Ad id="9f32ede9fc5842d5c47cf196bb990974">
+<InLine>
+<AdSystem>MobileAds.com</AdSystem>
+<AdTitle>test vast</AdTitle>
+<Error>
+<![CDATA[
+https://track.richmediaads.com/a/analytic.htm?uid=0&type=video_error&userId=3354&pubUserId=0&rmaId=164&tabId=1&componentId=24&campaignId=9f32ede9fc5842d5c47cf196bb990974&pageLoadId=&dsp=mine&exchange=&uniqueId=
+]]>
+</Error>
+<Impression>
+<![CDATA[
+https://track.richmediaads.com/a/analytic.htm?uid=0&type=a_v_page_view&userId=3354&pubUserId=0&rmaId=164&tabId=1&componentId=24&campaignId=9f32ede9fc5842d5c47cf196bb990974&pageLoadId=&cb=&dsp=mine&exchange=&uniqueId=
+]]>
+</Impression>
+<Creatives>
+<Creative id="164" AdID="164">
+<Linear skipoffset="00:00:05">
+<Duration>00:00:11</Duration>
+<MediaFiles>
+<MediaFile type="video/mp4" delivery="progressive" width="480" height="320">
+<![CDATA[
+https://archive.org/download/Demo1080p/demo%201080p.mp4
+]]>
+</MediaFile>
+</MediaFiles>
+<VideoClicks>
+<ClickThrough>
+<![CDATA[ http://www.mobileads.com ]]>
+</ClickThrough>
+<ClickTracking>
+<![CDATA[ ]]>
+</ClickTracking>
+<ClickTracking>
+<![CDATA[
+https://track.richmediaads.com/a/analytic.htm?uid=0&type=end_image_click&userId=3354&pubUserId=0&rmaId=164&tabId=1&componentId=24&campaignId=9f32ede9fc5842d5c47cf196bb990974&value=0&pageLoadId=&dsp=mine&exchange=&uniqueId=&tt=CTR&ty=E
+]]>
+</ClickTracking>
+</VideoClicks>
+<TrackingEvents>
+<Tracking event="start">
+<![CDATA[
+https://track.richmediaads.com/a/analytic.htm?uid=0&type=video_play&userId=3354&pubUserId=0&rmaId=164&tabId=1&componentId=24&campaignId=9f32ede9fc5842d5c47cf196bb990974&tv=VP&value=0&pageLoadId=&dsp=mine&exchange=&uniqueId=
+]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[
+https://track.richmediaads.com/a/analytic.htm?uid=0&type=video_play_25&userId=3354&pubUserId=0&rmaId=164&tabId=1&componentId=24&campaignId=9f32ede9fc5842d5c47cf196bb990974&value=2.50666675&pageLoadId=&dsp=mine&exchange=&uniqueId=
+]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[
+https://track.richmediaads.com/a/analytic.htm?uid=0&type=video_play_50&userId=3354&pubUserId=0&rmaId=164&tabId=1&componentId=24&campaignId=9f32ede9fc5842d5c47cf196bb990974&value=5.0133335&pageLoadId=&dsp=mine&exchange=&uniqueId=
+]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[
+https://track.richmediaads.com/a/analytic.htm?uid=0&type=video_play_75&userId=3354&pubUserId=0&rmaId=164&tabId=1&componentId=24&campaignId=9f32ede9fc5842d5c47cf196bb990974&value=7.52000025&pageLoadId=&dsp=mine&exchange=&uniqueId=
+]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[
+https://track.richmediaads.com/a/analytic.htm?uid=0&type=video_play_100&userId=3354&pubUserId=0&rmaId=164&tabId=1&componentId=24&campaignId=9f32ede9fc5842d5c47cf196bb990974&tv=VC&value=10.026667&pageLoadId=&dsp=mine&exchange=&uniqueId=
+]]>
+</Tracking>
+<Tracking event="mute">
+<![CDATA[
+https://track.richmediaads.com/a/analytic.htm?uid=0&type=video_mute&userId=3354&pubUserId=0&rmaId=164&tabId=1&componentId=24&campaignId=9f32ede9fc5842d5c47cf196bb990974&pageLoadId=&dsp=mine&exchange=&uniqueId=
+]]>
+</Tracking>
+<Tracking event="unmute">
+<![CDATA[
+https://track.richmediaads.com/a/analytic.htm?uid=0&type=video_unmute&userId=3354&pubUserId=0&rmaId=164&tabId=1&componentId=24&campaignId=9f32ede9fc5842d5c47cf196bb990974&pageLoadId=&dsp=mine&exchange=&uniqueId=
+]]>
+</Tracking>
+<Tracking event="pause">
+<![CDATA[
+https://track.richmediaads.com/a/analytic.htm?uid=0&type=video_pause&userId=3354&pubUserId=0&rmaId=164&tabId=1&componentId=24&campaignId=9f32ede9fc5842d5c47cf196bb990974&pageLoadId=&dsp=mine&exchange=&uniqueId=
+]]>
+</Tracking>
+<Tracking event="rewind">
+<![CDATA[
+https://track.richmediaads.com/a/analytic.htm?uid=0&type=video_replay&userId=3354&pubUserId=0&rmaId=164&tabId=1&componentId=24&campaignId=9f32ede9fc5842d5c47cf196bb990974&pageLoadId=&dsp=mine&exchange=&uniqueId=
+]]>
+</Tracking>
+<Tracking event="skip">
+<![CDATA[
+https://track.richmediaads.com/a/analytic.htm?uid=0&type=video_skip&userId=3354&pubUserId=0&rmaId=164&tabId=1&componentId=24&campaignId=9f32ede9fc5842d5c47cf196bb990974&pageLoadId=&dsp=mine&exchange=&uniqueId=
+]]>
+</Tracking>
+</TrackingEvents>
+</Linear>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+</VAST>
